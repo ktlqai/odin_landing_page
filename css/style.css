@@ -2,6 +2,11 @@
     color: red;
 }
 
+.extra_background {
+    height: 60px;
+    background-color: black;
+}
+
 .header {
     background-color: black;
     
@@ -37,7 +42,6 @@
 
 .site_intro {
     margin-top: 60px;
-    margin-bottom: 60px;
 }
 
 .this_site {
